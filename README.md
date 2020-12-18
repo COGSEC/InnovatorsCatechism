@@ -1,5 +1,5 @@
 # Innovators's Catechism
-The Innovator's Catechism is an operations order for use by innovation teams proposed in the paper "The Innovator's Catechism"
+The Innovator's Catechism is an operations order for use by innovation teams proposed in the paper "The Innovator's Catechism". It is built from the Facilitator's Catechism with consideration for requirements by market-facing teams following the "Innovation Pipeline" defined by Steve Blank.
 ## Google Docs Versions Available here:
 | Doc | Link |
 | :--- | :--- |
