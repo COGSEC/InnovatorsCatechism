@@ -3,6 +3,6 @@ The Innovator's Catechism is an operations order for use by innovation teams pro
 ## Google Docs Versions Available here:
 | Doc | Link |
 | :--- | :--- |
-| Ideation Stage v1.0 | https://docs.google.com/document/d/1WqOVpb_Q2jJJM4_sDTIx5rf4re0eD4UmttWzsYxBVks/edit?usp=sharing |
-| Curation Stage v1.0 | https://docs.google.com/document/d/19pcsL2G5auuJ2Zg6PFPLRSBYJnLQZcAtFNY8oWAX70Y/edit?usp=sharing |
-| Pitch Stage v1.0 | https://docs.google.com/document/d/1qM0eSYcq05n8KtJrZSAAzhdGoh1Vg3ZhwSHAi5iJUDk/edit?usp=sharing |
+| Ideation Stage v1.1 | https://docs.google.com/document/d/1WqOVpb_Q2jJJM4_sDTIx5rf4re0eD4UmttWzsYxBVks/edit?usp=sharing |
+| Curation Stage v1.1 | https://docs.google.com/document/d/19pcsL2G5auuJ2Zg6PFPLRSBYJnLQZcAtFNY8oWAX70Y/edit?usp=sharing |
+| Pitch Stage v1.1 | https://docs.google.com/document/d/1qM0eSYcq05n8KtJrZSAAzhdGoh1Vg3ZhwSHAi5iJUDk/edit?usp=sharing |
